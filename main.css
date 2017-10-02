@@ -10,6 +10,7 @@ body {
 	/*background-color: #f2a9a9;*/
 }
 
+//NAVIGATION//
 	.nav { 
 	text-align: center;
 /*	background-color: pink;*/
@@ -40,6 +41,7 @@ body {
 	color: black;
 }
 
+//BODY//
 .page_content_home{
 	font-family: 'Press Start 2P', cursive;
 	font-size: 18px;
